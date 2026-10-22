@@ -1,0 +1,14 @@
+{
+ "old_leaked": {
+  "k": -0.09039419873136194,
+  "b": 2872.1876152092755,
+  "note": "fit on data incl 110 test set (leak)"
+ },
+ "new_train_only": {
+  "k": -0.090262,
+  "b": 2872.1727,
+  "note": "fit on 104 training seeds only (leak removed)"
+ },
+ "backup": "/home/tianyuchu/DSH\u5de5\u4f5c/eval_models/global_coeffs_leaked_backup_20260919_013730.npy",
+ "timestamp": "20260919_013730"
+}

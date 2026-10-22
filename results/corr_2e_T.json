@@ -1,0 +1,56 @@
+{
+ "100%|-5": {
+  "n": 10,
+  "corr": -0.115,
+  "split_mean_MHz": 4.612,
+  "split_std_MHz": 0.0202
+ },
+ "100%|+0": {
+  "n": 12,
+  "corr": 0.209,
+  "split_mean_MHz": 4.73,
+  "split_std_MHz": 0.0208
+ },
+ "100%|+5": {
+  "n": 10,
+  "corr": 0.706,
+  "split_mean_MHz": 4.816,
+  "split_std_MHz": 0.0169
+ },
+ "20%|-5": {
+  "n": 11,
+  "corr": -0.033,
+  "split_mean_MHz": 4.639,
+  "split_std_MHz": 0.0229
+ },
+ "20%|+0": {
+  "n": 10,
+  "corr": 0.409,
+  "split_mean_MHz": 4.746,
+  "split_std_MHz": 0.0263
+ },
+ "20%|+5": {
+  "n": 10,
+  "corr": 0.135,
+  "split_mean_MHz": 4.822,
+  "split_std_MHz": 0.0284
+ },
+ "50%|-5": {
+  "n": 10,
+  "corr": -0.499,
+  "split_mean_MHz": 4.64,
+  "split_std_MHz": 0.0273
+ },
+ "50%|+0": {
+  "n": 21,
+  "corr": 0.036,
+  "split_mean_MHz": 4.732,
+  "split_std_MHz": 0.0263
+ },
+ "50%|+5": {
+  "n": 10,
+  "corr": -0.593,
+  "split_mean_MHz": 4.815,
+  "split_std_MHz": 0.0267
+ }
+}

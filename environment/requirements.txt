@@ -1,0 +1,8 @@
+# Reviewer-materials environment (Python >= 3.10)
+# CPU inference is sufficient for all evaluation scripts.
+torch>=2.0
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+matplotlib>=3.7
+openpyxl>=3.1          # raw ODMR data are .xlsx
